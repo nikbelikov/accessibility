@@ -34,6 +34,7 @@
 - [Accessibility Fails](http://aduggin.github.io/accessibility-fails/)
 - [Доступные компоненты пользовательского интерфейса](http://prgssr.ru/development/dostupnye-komponenty-polzovatelskogo-interfejsa.html)
 - [Государственный сайт, доступный для людей с ограниченными возможностями (чек-лист доступности)](https://habrahabr.ru/company/design/blog/314910/)
+- [Changing the Reading Order of a Page with ARIA Flowto](http://csskarma.com/blog/changing-reading-order-page-aria-flowto/)
 
 ## Доклады
 
