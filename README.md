@@ -19,6 +19,7 @@
 
 ## Статьи
 
+- [WAI-ARIA basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
 - [Easy content organisation with HTML5](https://www.paciellogroup.com/blog/2015/09/easy-content-organisation-with-html5/)
 - [WebAIM's WCAG 2.0 Checklist](http://webaim.org/standards/wcag/checklist)
 - [Доступность веб‑страницы (7 рекомендаций)](http://nicothin.pro/page/dostupnost-veb-stranicy)
