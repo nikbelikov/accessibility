@@ -31,6 +31,7 @@
 - [Styleguide: Accessibility](https://github.com/edx/ux-pattern-library/wiki/Styleguide:-Accessibility)
 - [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 - [ARIA Examples](http://heydonworks.com/practical_aria_examples/)
+- [OpenAjax Examples](http://oaa-accessibility.org/)
 - [Эффективное использование ARIA в HTML5](http://prgssr.ru/development/ispolzovanie-aria-v-html5.html)
 - [Accessibility Fails](http://aduggin.github.io/accessibility-fails/)
 - [Доступные компоненты пользовательского интерфейса](http://prgssr.ru/development/dostupnye-komponenty-polzovatelskogo-interfejsa.html)
