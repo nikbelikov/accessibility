@@ -16,6 +16,7 @@
 - [An accessible widget & pattern library](http://a11yproject.com/patterns/)
 - [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
 - [FormLinter](https://formlinter.com/)
+- [Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 
 ## Статьи
 
