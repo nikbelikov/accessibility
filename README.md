@@ -40,7 +40,6 @@
 - [Changing the Reading Order of a Page with ARIA Flowto](http://csskarma.com/blog/changing-reading-order-page-aria-flowto/)
 - [Accessibility developer tools](https://github.com/GoogleChrome/accessibility-developer-tools/wiki/Audit-Rules)
 - [Using the aria-current attribute](http://tink.uk/using-the-aria-current-attribute/)
-- [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
 - [Rules for Using ARIA in HTML](https://bitsofco.de/rules-for-using-aria-in-html/)
 
 ## Доклады
