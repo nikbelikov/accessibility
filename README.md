@@ -41,6 +41,7 @@
 - [Accessibility developer tools](https://github.com/GoogleChrome/accessibility-developer-tools/wiki/Audit-Rules)
 - [Using the aria-current attribute](http://tink.uk/using-the-aria-current-attribute/)
 - [Rules for Using ARIA in HTML](https://bitsofco.de/rules-for-using-aria-in-html/)
+- [Basic screen reader commands for accessibility testing](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
 
 ## Доклады
 
