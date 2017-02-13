@@ -58,6 +58,7 @@
 - [Как работают дизайнеры, которые плохо различают цвета?](http://www.lookatme.ru/mag/how-to/ask/217433-what-is-it-like-to-be-a-color-blind-designer)
 - [Как используют интернет и современные технологии люди с нарушением зрения. Исследование Яндекса](https://habrahabr.ru/company/yandex/blog/270775/)
 - [Создание дизайна для дальтоников](https://habrahabr.ru/post/261181/)
+- ["В интернете нет ни ступенек, ни пандусов — ограничений быть не должно"](http://www.the-village.ru/village/business/opyt/257012-accessibility-yandex?utm_source=twitter.com&utm_medium=social&utm_campaign=istoriya-cheloveka--kotoryy-rabotaet-nad-t&utm_content=5171508)
 
 ## Контакты
 
