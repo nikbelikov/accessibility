@@ -17,6 +17,8 @@
 - [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
 - [FormLinter](https://formlinter.com/)
 - [Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
+- [IDI Web Accessibility Checker](https://achecker.ca/checker/)
+- [WAVE Evaluation Tool](http://wave.webaim.org/), + (расширение для Chrome)(https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 
 ## Статьи
 
