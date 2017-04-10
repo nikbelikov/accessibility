@@ -46,6 +46,7 @@
 - [Basic screen reader commands for accessibility testing](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
 - [A11Y Style Guide](https://cehfisher.github.io/a11y-style-guide/style-guide/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
+- [Верстка сайтов для людей с ограниченными возможностями](http://blog.aic.ru/nesting-for-people-with-disabilities/)
 
 ## Доклады
 
