@@ -47,6 +47,7 @@
 - [A11Y Style Guide](https://cehfisher.github.io/a11y-style-guide/style-guide/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
 - [Верстка сайтов для людей с ограниченными возможностями](http://blog.aic.ru/nesting-for-people-with-disabilities/)
+- [How to make error messages accessible](https://hiddedevries.nl/en/blog/2017-04-04-how-to-make-error-messages-accessible)
 
 ## Доклады
 
