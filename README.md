@@ -29,6 +29,7 @@
 - [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
 - [HTML For Screen Readers - Labelling Elements](https://bitsofco.de/html-for-screen-readers-labelling-elements/)
 - [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
+- [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Как проектировать для людей с цветовой слепотой](https://habrahabr.ru/post/275001/)
 - [Как «Яндекс» создает доступные интерфейсы](https://vc.ru/p/yandex-accessibility)
 - [Styleguide: Accessibility](https://github.com/edx/ux-pattern-library/wiki/Styleguide:-Accessibility)
