@@ -49,6 +49,7 @@
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
 - [Верстка сайтов для людей с ограниченными возможностями](http://blog.aic.ru/nesting-for-people-with-disabilities/)
 - [How to make error messages accessible](https://hiddedevries.nl/en/blog/2017-04-04-how-to-make-error-messages-accessible)
+- [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 
 ## Доклады
 
