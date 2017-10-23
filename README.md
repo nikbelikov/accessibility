@@ -72,7 +72,7 @@
 
 ## Контакты
 
-Если у вас имеются какие-либо вопросы или пожелания, пишите письма на [nikbelikov@me.com](mailto:nikbelikov@me.com) или воспользуйтесь [твиттером](https://twitter.com/_nikbelikov).
+Если у вас имеются какие-либо вопросы или пожелания, пишите письма на [nikbelikov@me.com](mailto:nikbelikov@me.com).
 
 ## Лицензия
 
