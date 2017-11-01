@@ -19,6 +19,7 @@
 - [Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 - [IDI Web Accessibility Checker](https://achecker.ca/checker/)
 - [WAVE Evaluation Tool](http://wave.webaim.org/) + [расширение для Chrome](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+- [Client side accessibility error scanner](https://github.com/github/accessibilityjs)
 
 ## Статьи
 
