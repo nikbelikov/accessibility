@@ -53,6 +53,7 @@
 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [Как сделать сайты доступнее для пользователей с нарушениями зрения](https://habrahabr.ru/post/335442/)
 - [Веблайнд — рекомендации по разработке сайтов для людей с нарушениями зрения](http://weblind.ru/)
+- [Руководство по alt-text от слабовидящего веб-разработчика](https://habrahabr.ru/post/341810/)
 
 ## Доклады
 
